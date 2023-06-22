@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.bce80aab.css",
-    "main.js": "/react-gh-pages/static/js/main.7e24c10d.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.bce80aab.css.map": "/react-gh-pages/static/css/main.bce80aab.css.map",
-    "main.7e24c10d.js.map": "/react-gh-pages/static/js/main.7e24c10d.js.map"
+    "main.css": "/challenge/static/css/main.bce80aab.css",
+    "main.js": "/challenge/static/js/main.7e24c10d.js",
+    "index.html": "/challenge/index.html",
+    "main.bce80aab.css.map": "/challenge/static/css/main.bce80aab.css.map",
+    "main.7e24c10d.js.map": "/challenge/static/js/main.7e24c10d.js.map"
   },
   "entrypoints": [
     "static/css/main.bce80aab.css",
